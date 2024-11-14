@@ -1,0 +1,7 @@
+fine_tuned_model
+import-env
+sd
+train_images
+.DS_Store
+.env
+exec/downloaded_model
